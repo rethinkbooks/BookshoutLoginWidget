@@ -1,7 +1,7 @@
 # Bookshout JS Login Widget
 
 ## Including
-Include the widget.min.js
+Include the bs-login-widget.min.js
 
 ## Usage
 ```js
